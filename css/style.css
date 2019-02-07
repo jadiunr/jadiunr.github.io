@@ -10,6 +10,9 @@ body {
   display: flex;
   align-items: center;
 }
+.phobia {
+  font-size: 1.8em;
+}
 .icon::before {
   font-size: 2em;
   color: #212529;
