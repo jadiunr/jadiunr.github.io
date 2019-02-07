@@ -1,5 +1,7 @@
 body {
   font-family: 'Reenie Beanie', cursive;
+  background-image: url('../img/bg.jpg');
+  background-size: cover;
 }
 .vertical-center {
   min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
